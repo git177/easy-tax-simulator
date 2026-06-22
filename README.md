@@ -19,6 +19,8 @@
 <img src="pics/3.png" width="400" alt="图片3">
 <img src="pics/4.png" width="400" alt="图片4">
 
+### 下载：
+#### [下载地址](https://aka77.indevs.in/guide/) 
 
 ### 参与贡献
 
