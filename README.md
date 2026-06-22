@@ -13,7 +13,7 @@
 ### 使用演示
 #### 1.纳税明细
 <img src="pics/1.png" width="400" alt="图片1">
-<img src="pics/s2.png" width="400" alt="图片2">
+<img src="pics/2.png" width="400" alt="图片2">
 
 #### 2.个人中心
 <img src="pics/3.png" width="400" alt="图片3">
