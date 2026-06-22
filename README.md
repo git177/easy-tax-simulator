@@ -12,12 +12,12 @@
 
 ### 使用演示
 #### 1.纳税明细
-<img src="pics/pics1.png" width="400" alt="图片1">
-<img src="pics/pics2.png" width="400" alt="图片2">
+<img src="pics/1.png" width="400" alt="图片1">
+<img src="pics/s2.png" width="400" alt="图片2">
 
 #### 2.个人中心
-<img src="pics/pics3.png" width="400" alt="图片3">
-<img src="pics/pics4.png" width="400" alt="图片4">
+<img src="pics/3.png" width="400" alt="图片3">
+<img src="pics/4.png" width="400" alt="图片4">
 
 
 ### 参与贡献
